@@ -1,6 +1,6 @@
 # odin-recipes
 
-View this project at: https://oneldev.github.io/odin-recipes/
+View this project at: https://nathaneseofficial.github.io/odin-recipes/index.html
 
 This is a basic recipe website demonstrating my knowledge of basic HTML concepts
 
